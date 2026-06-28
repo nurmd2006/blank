@@ -1,0 +1,10 @@
+{
+  "allowed": [
+    "torongoplus.vercel.app",
+    "torongoplus.netlify.app",
+    "mxonlive.xyz",
+    "mxonlive.com"
+  ],
+  "redirect": "https://torongoplus.blogspot.com/",
+  "subdomains": true
+}
