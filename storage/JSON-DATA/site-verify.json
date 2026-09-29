@@ -1,8 +1,8 @@
 {
   "allowed": [
     "torongoplus.vercel.app",
-    "torongoplus.netlify.app",
-    "mxonlive.xyz"
+    "torongoplus.netlify.app"
+    
   
   ],
   "redirect": "https://t.me/torongoplus",
